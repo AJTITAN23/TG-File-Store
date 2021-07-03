@@ -70,7 +70,7 @@ async def about_cb(c, m):
 
 📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [AJMOVIEWEB](https://t.me/AJMOVIEWEBOFFICIAL)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [MOVIES AS YOUR REQUEST](https://t.me/MOVIES_AS_YOUR_REQUESTS)
+👥 𝐆𝐫𝐨𝐮𝐩: [movies and anime request](https://t.me/joinchat/7D9HZY0jPc1hZjk1)
 
 🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com)
 
